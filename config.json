@@ -19,7 +19,7 @@
   "poolServer": {
     "enabled": true,
     "clusterForks": "auto",
-    "poolAddress": "TRTLuxE4oksDq75qP3A8nKb2cLpPdA9CdPUyt2W8PhUuEEmkDMPVUVtJLfVPoU1fGGCBG92RUuF4KYNZViKposs2WpJasinZMeF",
+    "poolAddress": "TRTLuzQNwnHiYDs7FFNyr67D27kTjeFBN9gtFdkbngWVC5mXMywCgbyKwzuKcFPwjjVAkuYrbVQtfZwNiFr7o6VNdDgTtsPfG9m",
     "blockRefreshInterval": 1000,
     "minerTimeout": 3600,
     "ports": [
@@ -91,8 +91,8 @@
         "enabled": true,
         "interval": 120,
         "maxAddresses": 50,
-        "transferFee": 10,
-        "minPayment": 10000,
+        "transferFee": 100,
+        "minPayment": 100000,
         "maxTransactionAmount": 0,
         "denomination": 100
     },
@@ -111,11 +111,11 @@
         "enabled": true,
         "hashrateWindow": 600,
         "updateInterval": 5,
-        "host": "lingkarcakra.com",
+        "host": "127.0.0.1",
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "xxxx"
+        "password": "your_password"
     },
 
     "daemon": {
@@ -126,7 +126,7 @@
     "wallet": {
         "host": "127.0.0.1",
         "port": 8070,
-        "password": "xxxxx"
+        "password": "<replace with rpc password>"
     },
 
     "redis": {
