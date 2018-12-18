@@ -1,12 +1,12 @@
-var api = 'http://poolhost.com:1117'
+var api = 'http://lingkarcakra.com:1117'
 
-var api_blockexplorer = 'http://daemonhost.com:1118'
+var api_blockexplorer = 'https://turtle-block.com:1118'
 
-var poolHost = 'poolhost.com'
+var poolHost = 'lingkarcakra.com'
 
-var irc = 'irc.freenode.net/#poolhost'
+var irc = 'irc.freenode.net/#lingkarcakra'
 
-var email = 'support@poolhost.com'
+var email = 'lingkarcakracoin@gmail.com'
 
 var cryptonatorWidget = ['{symbol}-BTC', '{symbol}-USD', '{symbol}-EUR']
 
@@ -16,7 +16,7 @@ var blockchainExplorer = 'http://chainradar.com/{symbol}/block/{id}'
 
 var transactionExplorer = 'http://chainradar.com/{symbol}/transaction/{id}'
 
-var themeCss = 'themes/default-theme.css'
+var themeCss = 'themes/deep-gray-dark-theme.css'
 
 var networkStat = {
   'bcn': [
