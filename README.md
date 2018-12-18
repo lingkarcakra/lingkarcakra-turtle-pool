@@ -1,3 +1,4 @@
+#### Rev01 ####
 #### Master Build Status
 [![Build Status](https://travis-ci.org/turtlecoin/node-turtle-pool.svg?branch=master)](https://travis-ci.org/turtlecoin/node-turtle-pool)
 
